@@ -2,7 +2,7 @@
 ## Decade-wise Crime Pattern and Trend Analysis Across Indian States (2015–2025)
 
 
-# Description
+## Description
 This project focuses on analyzing crime trends across Indian states over a span of 10 years, divided into two phases:
 
 -2015–2020(df1)
@@ -11,7 +11,7 @@ This project focuses on analyzing crime trends across Indian states over a span 
 
 I used Python (Pandas, NumPy, Matplotlib) to process and visualize crime data, helping to uncover patterns, trends, and critical insights about crime distribution, intensity, and change over time
 
-# Key Analyses Performed:
+## Key Analyses Performed:
 
 1.Top 5 States with Highest Average Total Crimes (2015–2020 & 2020–2025):
 Identified states with consistently high crime rates in both time periods by calculating the average total crimes.
@@ -46,7 +46,6 @@ Calculated and visualized the percentage change in total crimes for each state t
 11.Total Crimes by State and Crime Type:
 Visualized a breakdown of crimes per state and per crime type to understand regional patterns and focus areas.
 
+#  Conclusion:
 
-
-
-
+This project provided a comprehensive analysis of crime patterns across Indian states over two distinct periods: 2015–2020 and 2020–2025. By working with real-world datasets using Python (Pandas, NumPy, Matplotlib), I was able to explore crime trends, identify high-crime states, and measure changes in crime types over time.
