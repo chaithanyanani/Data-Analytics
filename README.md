@@ -1,5 +1,5 @@
 # Data-Analytics
-## Smart Crime Insight and Trend Analyzer (2015–2025)
+## Decadal Crime Intelligence System for Smart Policing (2015–2025)
 
 ## Description
 This project focuses on analyzing crime trends across Indian states over a span of 10 years, divided into two phases:
