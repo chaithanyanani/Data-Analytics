@@ -1,6 +1,5 @@
 # Data-Analytics
-## Decade-wise Crime Pattern and Trend Analysis Across Indian States (2015–2025)
-
+## Smart Crime Insight and Trend Analyzer (2015–2025)
 
 ## Description
 This project focuses on analyzing crime trends across Indian states over a span of 10 years, divided into two phases:
